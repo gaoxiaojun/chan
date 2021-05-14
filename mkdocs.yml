@@ -7,7 +7,6 @@ theme:
     accent: white
   language: zh
   features:
-    - navigation.expand
     - navigation.top
     - toc.integrate
 plugins:
