@@ -1,0 +1,16 @@
+site_name: 缠中说禅
+theme:
+  font: false
+  name: material
+  palette:
+    primary: black
+    accent: white
+  language: zh
+  features:
+    - navigation.expand
+    - navigation.top
+    - toc.integrate
+plugins:
+  - search:
+      prebuild_index: true
+      lang: ja
