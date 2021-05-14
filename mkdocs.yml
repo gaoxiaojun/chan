@@ -14,6 +14,9 @@ plugins:
       prebuild_index: true
       lang: ja
 markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.details
+  - admonition
   - toc:
       toc_depth: 3
       permalink: true
