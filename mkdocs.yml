@@ -14,3 +14,7 @@ plugins:
   - search:
       prebuild_index: true
       lang: ja
+markdown_extensions:
+  - toc:
+      toc_depth: 3
+      permalink: true
